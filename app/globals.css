@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  background-color: #303030;
+  color: white;
+}
+.buy {
+  text-align: center;
+}
+.title {
+  text-align: center;
+  margin-top: 50px;
+}
+.food {
+  margin: 20px auto;
+  text-align: center;
+  width: 200px;
+  padding: 20px;
+  /* 중요속성 : padding */
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
+.navbar {
+  background-color: white;
+  padding: 20px;
+}
+.navbar a {
+  margin-right: 10px;
+  text-decoration: none;
+}
+.title2 {
+  margin-top: 200px;
+  color: white;
+}
+.food-img {
+  width: 100%;
+  height: auto;
+}
+.cart-item {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid grey;
+  line-height: 0px;
+} 
